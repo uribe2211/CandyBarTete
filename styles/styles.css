@@ -1,3 +1,6 @@
+body {
+  background-color: #D1F1F0; /* Cambia este valor por el color que desees */
+}
 .image-zoom {
     overflow: hidden;
   }
